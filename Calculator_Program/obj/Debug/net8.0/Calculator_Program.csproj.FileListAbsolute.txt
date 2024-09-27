@@ -1,0 +1,14 @@
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\bin\Debug\net8.0\Calculator_Program.exe
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\bin\Debug\net8.0\Calculator_Program.deps.json
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\bin\Debug\net8.0\Calculator_Program.runtimeconfig.json
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\bin\Debug\net8.0\Calculator_Program.dll
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\bin\Debug\net8.0\Calculator_Program.pdb
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\obj\Debug\net8.0\Calculator_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\obj\Debug\net8.0\Calculator_Program.AssemblyInfoInputs.cache
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\obj\Debug\net8.0\Calculator_Program.AssemblyInfo.cs
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\obj\Debug\net8.0\Calculator_Program.csproj.CoreCompileInputs.cache
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\obj\Debug\net8.0\Calculator_Program.dll
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\obj\Debug\net8.0\refint\Calculator_Program.dll
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\obj\Debug\net8.0\Calculator_Program.pdb
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\obj\Debug\net8.0\Calculator_Program.genruntimeconfig.cache
+C:\Users\asingh6\Desktop\Learning C#\Calculator_Program\obj\Debug\net8.0\ref\Calculator_Program.dll
